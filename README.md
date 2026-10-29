@@ -10,3 +10,4 @@
 - Игнорируются все файлы с расширением `.tfvars` (шаблон `*.tfvars`) и `.tfvars.json` (шаблон `*.tfvars.json`).
 - Игнорируются файлы, имя которых заканчивается на `override.tf` или `override.tf.json` (шаблоны `override.tf`, `override.tf.json`), а также файлы, в имени которых есть `_override.tf` или `_override.tf.json` (шаблоны `*_override.tf`, `*_override.tf.json`).
 - Игнорируется файл `terraform.rc`.
+1
